@@ -1,0 +1,16 @@
+.payment .transfer {
+  margin-bottom: 7px;
+}
+
+.payment .cod {
+  padding-top: 7px;
+  border-top: 1px solid #ececec;
+}
+.payment .infor {
+  font-size: 14px;
+  color: rgba(0,0,0,.65);
+}
+.cod .infor {
+  font-size: 14px;
+  color: rgba(0,0,0,.65);
+}

@@ -1,0 +1,21 @@
+#section-2 {
+  height: 730px;
+  border-bottom: 2px solid #ccc;
+}
+#section-2 .row {
+  height: 100%;
+}
+
+#section-2 .row .col {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+#section-2 .row .col:first-child {
+  border-right: 2px solid #ccc;
+}
+
+#section-2 .row .col-left,.col-right {
+  padding: 4vw;
+  height: 100%;
+}

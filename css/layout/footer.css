@@ -1,0 +1,41 @@
+#footer {
+  background-color: #4a4e54;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#footer>hr {
+  margin: 20px 0 10px;
+  border-top: 1px solid #dedede;
+}
+#footer .row {
+  display: flex;
+  justify-content: center;
+}
+
+#footer .row .col {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+#footer .row .line {
+  border-bottom: 1px solid;
+  padding-bottom: 20px;
+}
+
+#footer .row-infor {
+  margin-top: 20px;
+}
+
+.social-icons {
+  margin-top: 10px;
+}
+
+.social-icons .icon-list a {
+  margin-right: 5px;
+}
+
+.social-icons .icon-list a img {
+  width: 40px;
+}
